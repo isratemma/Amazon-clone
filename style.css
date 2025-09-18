@@ -139,6 +139,8 @@ span{
 .shop-section{
     display: flex;
     justify-content: space-evenly;
+    background-color: #cccccc;
+    flex-wrap: wrap;
 }
 .box{
     border: 2px solid black;
